@@ -1,7 +1,5 @@
 # BASis — Open Source IAM for Building Automation (Repo Scaffolding)
 
-Below is a full starter scaffold for your `github.com/basauthco/basis` repository. Copy these files into a fresh repo (or ask me to package as a .zip). You can tweak names/language choices at will.
-
 ---
 
 ## Repository Layout
